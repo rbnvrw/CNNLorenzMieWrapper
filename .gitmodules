@@ -1,0 +1,3 @@
+[submodule "CNNLorenzMie"]
+	path = CNNLorenzMie
+	url = git@github.com:laltman2/CNNLorenzMie.git
